@@ -1,0 +1,5 @@
+{
+  "name": "Kreator Ofert Specjalnych Drag & Drop",
+  "description": "A drag-and-drop tool to quickly generate personalized special offers by combining predefined content blocks. The created offer is saved locally, and a final version can be generated after filling in customer details.",
+  "requestFramePermissions": []
+}
